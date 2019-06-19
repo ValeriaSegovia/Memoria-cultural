@@ -1,0 +1,124 @@
+body{
+  font-family: 'Oswald', sans-serif;
+  color: #1c2931;
+  overflow: hiddMen !important;
+  background-color: #edf1cd;
+  padding-left: 2em;
+  text-align: left;
+}
+
+.menu{
+  background-color: #1c2931;
+}
+
+.contenido{
+  background-color: #edf1cd;
+  height: 300vh;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-top: 5em;
+  padding-bottom: 2em;
+
+}
+.Logo{
+  background: pink;
+  height: 100px;
+  width: 100xp;
+
+}
+.main-img{
+  width: 50%;
+  height: auto;
+}
+.cuadro{
+  width: 800px;
+
+}
+.historiapropia{
+  width: 800px;
+  height: 600px;
+}
+
+.link{
+  margin-bottom: 2.8em;
+}
+
+ul{
+  float: none;
+  position: fixed;
+  display: block;
+  padding-top: 15em;
+  align-self: auto;
+}
+ul2{
+  position: fixed;
+  padding-top: 2em;
+  width: 300px;
+  height: auto;
+  align-self: rigth;
+}
+ul3{
+  float: none;
+  position: relative;
+  display: inline-block;
+  padding-top: em;
+  align-self: auto;
+}
+a{
+  color: #edf1cd;
+  font-size: 21px;
+  text-transform: uppercase;
+  letter-spacing: 1.6;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 2em;
+}
+
+a:hover{
+  color: #f59b17;
+  text-decoration: underline;
+  text-decoration-color: #bad479;
+}
+.anexo{
+  color: #3d3868 ;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 1.6;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.anexo:hover{
+  color: #f59b17;
+  text-decoration: underline;
+  text-decoration-color: #1c2931;
+}
+p{
+  font-family: 'Nunito', sans-serif;
+  padding-bottom: 0.5em;
+  width: 800px;
+  font-size: 14px;
+}
+p2{
+  font-size: 14px;
+  font-family: 'Nunito', sans-serif;
+  width: 600px;
+}
+p3{
+  font-size: 36px;
+  font-family: 'Nunito', sans-serif;
+  width: 600px;
+}
+img:hov er {
+
+transform:scale(1.99);
+
+filter: grayscale(0);
+
+transition:all ease-out 0.5s;
+
+}
+.portada{
+  padding-top: none;
+  padding-bottom: 1em;
+}
